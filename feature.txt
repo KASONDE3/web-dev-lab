@@ -2,3 +2,4 @@
 2. Creating pull request pushing to main and creating branch
 3. git commit with description 
 4. How to install and setup vscode and node environment 
+5. Using liverserver extension to monitor real time changes to the html page 
