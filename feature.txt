@@ -1,0 +1,4 @@
+1. How to create initiate and create repository using terminal/cmd
+2. Creating pull request pushing to main 
+3. git commit with description 
+4. How to install and setup vscode and node environment 
